@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p><img style="float: left;" src="https://github.com/ibaranovip/copy-of-this-repository./blob/master/generated/overview.svg" alt="" /></p>
+<p style="text-align: left;">&lt;!--</p>
+<p style="text-align: right;"><img src="&lt;p&gt;&lt;img src=&quot;https://github.com/ibaranovip/copy-of-this-repository./blob/master/generated/languages.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt; &lt;!--" alt="" /></p>
 <!--
 **ibaranovip/ibaranovip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
